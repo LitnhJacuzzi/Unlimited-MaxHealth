@@ -8,7 +8,7 @@ version="1.0"
 displayName="Unlimited MaxHealth"
 authors="LitnhJacuzzi"
 description='''
-Break the entity health limitation at client side.
+Breaks entity max health limitation at client side.
 '''
 
 [[dependencies.unlimitedmaxhealth]]
