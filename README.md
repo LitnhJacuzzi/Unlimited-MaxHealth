@@ -1,0 +1,2 @@
+# Summary
+A Tiny Minecraft mod that breaks entity max health limitation at client side(1024.0D -> Double.MAX_VALUE). It allows mods which display entities' attributes to completely show high-HP entities' health in some servers.
